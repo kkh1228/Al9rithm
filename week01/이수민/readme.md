@@ -12,3 +12,8 @@
 🥇 [B1918. 후위 표기식](https://www.acmicpc.net/problem/1918)
 <br>
 🙉 [문제풀이](https://isminimin.tistory.com/8)
+
+### Day-04. Stack
+🥈 [B1874. 스택 수열](https://www.acmicpc.net/problem/1874)
+<br>
+🥉 [B12605. 단어순서 뒤집기](https://www.acmicpc.net/problem/12605)
