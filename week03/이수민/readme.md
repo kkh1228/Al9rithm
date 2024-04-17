@@ -10,3 +10,6 @@
 
 ### Day-03. Brute Force & Backtracking
 🥉 [B2798. 블랙잭](https://www.acmicpc.net/problem/2798)
+
+### Day-04. Brute Force
+🥇 [B1027. 고층 건물](https://www.acmicpc.net/problem/1027)
