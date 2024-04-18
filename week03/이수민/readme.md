@@ -13,3 +13,8 @@
 
 ### Day-04. Brute Force
 🥇 [B1027. 고층 건물](https://www.acmicpc.net/problem/1027)
+
+### Day-05. Brute Force
+🥇 [B1034. 램프](https://www.acmicpc.net/problem/1034)
+<br>
+🙉 [문제풀이](https://isminimin.tistory.com/17)
