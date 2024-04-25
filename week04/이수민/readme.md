@@ -6,3 +6,6 @@
 
 ### Day-03. Tree & DFS
 🥈 [B11725. 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)
+
+### Day-04. String
+🥇 [B5052. 전화번호 목록](https://www.acmicpc.net/problem/5052)
