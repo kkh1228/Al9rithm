@@ -9,3 +9,6 @@
 
 ### Day-04. String
 🥇 [B5052. 전화번호 목록](https://www.acmicpc.net/problem/5052)
+
+### Day-05. Dynamic Programming
+🥇 [B10942. 팰린드롬?](https://www.acmicpc.net/problem/10942)
