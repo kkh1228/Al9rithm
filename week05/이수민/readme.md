@@ -5,3 +5,6 @@
 🥈 [B2156. 포도주 시식](https://www.acmicpc.net/problem/2156)
 <br>
 🙉 [문제풀이](https://isminimin.tistory.com/18)
+
+### Day-03. Dynamic Programming
+🥈 [B2579. 계단 오르기](https://www.acmicpc.net/problem/2579)
