@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Al9rithm.iml" filepath="$PROJECT_DIR$/.idea/Al9rithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week04/김황연/treeDelete/treeDelete.iml" filepath="$PROJECT_DIR$/week04/김황연/treeDelete/treeDelete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week04/김황연/treeParent/treeParent.iml" filepath="$PROJECT_DIR$/week04/김황연/treeParent/treeParent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week01/week01.iml" filepath="$PROJECT_DIR$/week01/week01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week02/week02.iml" filepath="$PROJECT_DIR$/week02/week02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week03/week03.iml" filepath="$PROJECT_DIR$/week03/week03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week04/week04.iml" filepath="$PROJECT_DIR$/week04/week04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week05/week05.iml" filepath="$PROJECT_DIR$/week05/week05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week02/김황연/김황연.iml" filepath="$PROJECT_DIR$/week02/김황연/김황연.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week01/김황연/김황연1.iml" filepath="$PROJECT_DIR$/week01/김황연/김황연1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week03/이승헌/이승헌.iml" filepath="$PROJECT_DIR$/week03/이승헌/이승헌.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week01/이승헌/이승헌1.iml" filepath="$PROJECT_DIR$/week01/이승헌/이승헌1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week02/이승헌/이승헌2.iml" filepath="$PROJECT_DIR$/week02/이승헌/이승헌2.iml" />
+    </modules>
+  </component>
+</project>

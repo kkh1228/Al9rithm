@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/A와B2" isTestSource="false" packagePrefix="al9rithm.week3" />
+      <sourceFolder url="file://$MODULE_DIR$/카드섞기" isTestSource="false" packagePrefix="al9rithm.week3" />
+      <sourceFolder url="file://$MODULE_DIR$/큰수구성하기" isTestSource="false" packagePrefix="al9rithm.week3" />
+      <sourceFolder url="file://$MODULE_DIR$/트리의부모찾기" isTestSource="false" packagePrefix="al9rithm.week3" />
+      <sourceFolder url="file://$MODULE_DIR$/호석이두마리치킨" isTestSource="false" packagePrefix="al9rithm.week3" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
