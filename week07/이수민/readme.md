@@ -6,3 +6,6 @@
 
 ### Day-03. Tree
 🥈 [B9934. 완전 이진 트리](https://www.acmicpc.net/problem/9934)
+
+### Day-04. Tree
+🥇 [B9489. 사촌](https://www.acmicpc.net/problem/9489)
